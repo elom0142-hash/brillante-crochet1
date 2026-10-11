@@ -1,0 +1,31 @@
+BRILLANTE CROCHET — GUIDE RAPIDE
+
+FICHIERS
+- index.html : contenu du site
+- style.css : couleurs, mise en page et adaptation mobile
+- script.js : menu mobile et liens de commande WhatsApp
+
+OUVRIR LE SITE
+1. Décompresse le fichier ZIP.
+2. Ouvre le dossier brillante-crochet dans Visual Studio Code.
+3. Clique deux fois sur index.html pour le voir dans ton navigateur.
+   Conseil : dans VS Code, tu peux installer l'extension Live Server puis cliquer sur
+   « Go Live » pour actualiser automatiquement la page.
+
+CONFIGURER WHATSAPP
+1. Ouvre script.js.
+2. Remplace 22890000000 par ton vrai numéro WhatsApp au format international,
+   chiffres uniquement (exemple : 228 suivi de ton numéro, sans +, espaces ou tirets).
+3. Enregistre le fichier et recharge la page.
+
+PERSONNALISER LE SITE
+- Pour changer les prix et les noms de produits, modifie index.html.
+- Pour changer les couleurs, modifie les variables au début de style.css.
+- Les images de démonstration sont chargées depuis Unsplash : une connexion Internet
+  est nécessaire pour les afficher. Remplace-les par tes propres photos quand tu en as.
+- Les prix et les photos sont des exemples : vérifie-les avant de publier le site.
+
+PUBLICATION
+Tu peux publier gratuitement le site sur GitHub Pages, Netlify ou un hébergement web.
+N'oublie pas de remplacer les images de démonstration, le numéro WhatsApp et les textes
+de présentation avant la publication.
